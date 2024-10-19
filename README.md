@@ -27,21 +27,17 @@ Untuk membuat alat ini berfungsi, pengguna perlu mendapatkan cookie dari sesi Fa
 - Pertama, pengguna perlu masuk ke Facebook, lalu buka Messenger di browser yang sama.
 - Kemudian, mereka akan menggunakan alat pengembang browser untuk memeriksa cookie. Dengan mengklik kanan pada halaman dan memilih "Inspect," mereka bisa mengakses tab "Network" dan mengambil nilai cookie yang diperlukan.
   
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/3.png)
 
 - Di bawah "Network," pengguna akan memilih baris yang terkait dengan "www.messenger.com."
 - Dengan pergi ke tab "Cookies," mereka bisa menyalin nilai dari "c_user" dan "xs" dan memasukkannya ke dalam skrip.
 
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/4.png)
 
 #### 3.2 - Menggunakan Google Chrome:
 - Mirip dengan Firefox, pengguna perlu mengklik kanan pada halaman dan memilih "Inspect."
-  
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/5.png)
+
 
 - Di jendela alat pengembang, pengguna akan menavigasi ke tab "Application," lalu menemukan bagian "Cookies" untuk mengekstrak cookie yang diperlukan.
 
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/6.png)
 
 ### Step 4: Running the Tool
 
@@ -56,41 +52,28 @@ Ini akan menampilkan menu bantuan dengan berbagai opsi untuk menggunakan alat.
 ### Menu:
 Setelah dikonfigurasi, alat ini menawarkan beberapa opsi untuk melakukan berbagai jenis pencarian Google.
 
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/7.png)
 
 ### Contoh Mencari File PDF:
 Pengguna dapat mencari dokumen PDF menggunakan kueri yang sudah ditentukan.
 
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/8.png)
 
 ### Contoh Mencari Ekstensi Default:
 Alat ini juga memungkinkan pencarian jenis file tertentu.
 
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/12.png)
-
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/13.png)
 
 ### Contoh Mencari Rute yang Mengandung Kata "Password":
 Contoh ini menunjukkan bagaimana pengguna bisa mencari URL yang mengandung kata kunci sensitif seperti "password."
 
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/9.png)
 
 ### Daftar Dorks:
 Alat ini memanfaatkan dork Google yang sudah ditentukan, yang merupakan kueri pencarian yang dirancang untuk menemukan jenis informasi tertentu.
 
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/10.png)
-
 ### Contoh Pencarian Dork Massal:
 Pengguna dapat melakukan pencarian skala besar menggunakan beberapa kueri sekaligus.
 
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/11.png)
 
 ### Contoh Pencarian Semua Dorks (Direkomendasikan untuk Audit dan Pentesting):
 Untuk pengujian penetrasi dan audit, pengguna dapat menjalankan semua dork yang tersedia.
-
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/14.png)
-
-![Screenshot](https://github.com/lamberthrumpaidus/uDork/raw/main/images/15.png)
 
 ---
 
